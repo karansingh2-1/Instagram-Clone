@@ -1,0 +1,176 @@
+.container {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 30px;
+  }
+  
+  img {
+    width: auto;
+    height: auto;
+    float: left;
+  }
+  
+  .text {
+    float: auto;
+    margin-top: 25px;
+    margin-left: 25px;
+  }
+
+  @font-face {
+            font-family: myfont;
+            src: url(myfont/Billabong.ttf);
+        }
+
+        @font-face {
+            font-family: myfont2;
+            src: url(myfont2/InstagramSans-Regular.ttf)
+        }
+        #class4 {
+            border: 1px solid rgb(223, 215, 215);
+            margin: auto;
+            width: 345px;
+            text-align: center;
+            height: 400px;
+            padding-top: 1px;
+            font-family: myfont2;
+            display: block;
+        }
+
+        #class {
+            height: 25px;
+            width: 255px;
+            border: 1px solid rgb(223, 215, 215);
+            background-color: rgba(248, 245, 245, 0.9);
+            padding: 5px;
+            font-size: 12px;
+            margin-top: 1px;
+            margin-bottom: -10px;
+            font-family: myfont2;
+        }
+
+        #class1 {
+            height: 25px;
+            width: 255px;
+            border: 1px solid rgb(223, 215, 215);
+            background-color: rgba(248, 245, 245, 0.9);
+            padding: 5px;
+            font-size: 12px;
+            margin-top: 15px;
+            font-family: myfont2;
+        }
+
+        #class2 {
+            height: 30px;
+            width: 265px;
+            border: 0 solid white;
+            background-color: rgb(74, 178, 238);
+            padding: 5px;
+            font-size: 14px;
+            margin-top: 15px;
+            border-radius: 8px;
+            color: white;
+            font-weight: 600;
+            font-family: myfont2;
+            
+        }
+
+        h2 {
+            width: 260px; 
+            text-align: center; 
+            border-top: 1px solid rgb(223, 215, 215);
+            line-height: 0.1em;
+            margin: 30px 15px 0 45px; 
+            font-family: myfont2;
+        } 
+
+        h2 span { 
+            background:#fff; 
+            padding: 0 15px 0 15px;
+            font-size: 15px;
+            font-family: myfont2;
+            
+        }
+
+        #my1 {
+            color: rgb(47, 48, 112);
+            font-weight: lighter;
+            font-family: myfont2;
+            font-size: 14px;
+            display: inline-block;
+            margin-bottom: -3px;
+
+        }
+
+        a {
+            text-decoration: none;
+            font-size: 13px;
+            font-family: myfont2;
+        }
+
+        #new {
+            border: 1px solid rgb(223, 215, 215);
+            margin: auto;
+            margin-top: 10px;
+            margin-bottom: 20px;
+            width: 345px;
+            text-align: center;
+            height: 40px;
+            padding-top: 5px;
+            padding-bottom: 15px;
+            font-family: myfont2;
+            display: block;
+
+        }
+
+        #new1 {
+            text-align: center;
+            font-family: myfont2;
+            font-size: 15px;
+            
+
+            
+        }
+
+        
+
+        #di1 {
+            display: inline-block;
+            margin-left: 50px;
+            margin-right: auto;
+        }
+
+        #di2 {
+            display: inline-block;
+            margin-left: auto;
+            margin-right: 50px;
+        }
+
+        #new3 {
+            display: inline-block;
+            margin-right: 5px;
+        }
+
+        #my5 {
+            margin-left: 300px;
+            word-spacing: 10px;
+            
+        }
+
+        a:link {
+            color:rgb(138, 136, 132);
+        }
+
+        #my5 {
+            font-family: myfont2;
+        }
+
+        #karan {
+            display: inline-block;
+            margin-left: 90px;
+            margin-right: auto;
+            margin-top: 40px;
+            margin-bottom: 35px;
+        }
